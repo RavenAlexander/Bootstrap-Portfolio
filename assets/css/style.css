@@ -83,6 +83,20 @@ img {
   height: 25%;
 }
 
+.first {
+  padding-left: 0;
+}
+
+.second {
+  padding-left: 10px;
+}
+
+.third {
+  padding-left: 20px;
+  padding-right: 0px;
+}
+
+
 /*FOOTER*/
 
 .footer {
